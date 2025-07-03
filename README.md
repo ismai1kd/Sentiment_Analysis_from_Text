@@ -25,7 +25,7 @@ This repository contains a machine learning pipeline for performing sentiment cl
 ## 🧠 Dataset
 
 The dataset used in this project is:
-- 📂 **[Emotions in Text Dataset](https://www.kaggle.com/datasets/ishanbhattarai/emotions-in-text)**
+- 📂 **[Emotions in Text Dataset](https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text)**
 - 💬 Contains over 21,000 labeled English sentences categorized by emotions such as *happy*, *sad*, *anger*, *fear*, and more.
 
 ---
