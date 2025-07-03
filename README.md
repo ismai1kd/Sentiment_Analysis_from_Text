@@ -71,7 +71,7 @@ Random Forest clearly outperforms the others in emotion classification tasks due
 
 I also prepared a video presentation explaining the full project with visuals, coding steps, and results.
 
-🔗 **Watch here:** _[YouTube Link to be inserted]_  
+🔗 **Watch here:** **[Youtube Video](https://www.youtube.com/watch?v=55jTT_mmddo&t=2s)**  
 👍 If you find it useful, don’t forget to like, comment, and subscribe!
 
 ---
@@ -106,7 +106,7 @@ This project is ideal for:
 Created by **İsmail Bayhan Yaltırık**  
 🎓 Artificial Intelligence & Machine Learning Engineering  
 🏫 Konya Technical University  
-📧 [Insert Email or LinkedIn Profile]
+📧 My E-Mail: **info@ismailyaltirik.com**
 
 ---
 
